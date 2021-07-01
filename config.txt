@@ -1,3 +1,4 @@
 {
-  "name": "DEMO"
+  "name": "DEMO",
+  "role": "DEV"
 }
